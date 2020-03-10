@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Vector2F","2D points with 32-bit floating point coordinates."],["Vector2I","2D points with 32-bit signed integer coordinates."],["Vector3F","3D points."],["Vector4F","3D homogeneous points."]]});

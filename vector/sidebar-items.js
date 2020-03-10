@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["FillRule",""],["Paint",""],["PixelFormat",""]],"struct":[["PathBuilder",""],["PathStyle",""],["Rect",""],["Transform","An affine transform, optimized with SIMD."],["Vector","2D points with 32-bit floating point coordinates."]],"trait":[["Contour",""],["Outline",""],["Surface",""],["Value",""]],"type":[["Rgba8",""]]});

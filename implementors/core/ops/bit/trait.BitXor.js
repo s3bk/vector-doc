@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["pathfinder_simd"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/bit/trait.BitXor.html\" title=\"trait core::ops::bit::BitXor\">BitXor</a>&lt;<a class=\"struct\" href=\"pathfinder_simd/x86/struct.U32x4.html\" title=\"struct pathfinder_simd::x86::U32x4\">U32x4</a>&gt; for <a class=\"struct\" href=\"pathfinder_simd/x86/struct.U32x4.html\" title=\"struct pathfinder_simd::x86::U32x4\">U32x4</a>","synthetic":false,"types":["pathfinder_simd::x86::U32x4"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
